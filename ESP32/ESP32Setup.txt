@@ -1,0 +1,33 @@
+ESP32 Getting Started
+https://www.youtube.com/watch?v=QUNKY87Da7A&t=445s using Aurdio IDE( But I don't need that. I need Vscode)
+
+For Vscode:
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/index.html
+https://github.com/espressif/vscode-esp-idf-extension/blob/master/README.md
+
+
+How to Program:
+https://www.youtube.com/watch?v=AitCKcyjHuQ
+
+
+Datasheet and Schematics:
+Overview - https://www.espressif.com/sites/default/files/documentation/esp32-wrover-e_esp32-wrover-ie_datasheet_en.pdf
+https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf
+
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html#start-application-development
+
+
+ESP32 Technical Reference
+https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_en.pdf#iomuxgpio
+
+GitHub Repository for VsCode Extension:
+https://github.com/espressif/vscode-esp-idf-extension
+
+
+Windows Setup:
+https://docs.espressif.com/projects/esp-idf/en/v5.2.2/esp32/get-started/windows-setup.html(But I did not follow this)
+
+
+For Windows USB Driver to Detect the ESP32:
+https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
